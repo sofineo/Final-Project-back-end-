@@ -2,8 +2,7 @@
 
 ## Sobre o projeto
 
-Front-end: https://foodexplorerapp.netlify.app  
-Back-end: https://food-explorer-u7ik.onrender.com
+https://foodexplorerapp.netlify.app  
 
 Food Explorer é uma aplicação full stack web e mobile construída como desafio final para certificação do **Explorer**, curso de formação para iniciar no mercado de programação pela [RockeatSeat](https://rocketseat.com/explorer "Site da RockeatSeat").
 
