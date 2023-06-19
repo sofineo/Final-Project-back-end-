@@ -37,7 +37,7 @@ A aplicação ainda está em desenvolvimento e as próximas atualizações serã
 Aplicação foi desenvolvida utilizando o [layout](https://www.figma.com/community/file/1196874589259687769) fornecido.
 
 ### Modelo conceitual
-[![image](https://prnt.sc/BYdFUyVmFI5w)](https://drawsql.app/teams/sofia-neos-team/diagrams/food-explorer/embed)
+[![image](https://github.com/sofineo/Food-Explorer-back-end-/blob/632015a8de631870f25c16519b67e50552c9cae7/src/assets/modeloconceitual.png)](https://drawsql.app/teams/sofia-neos-team/diagrams/food-explorer/embed)
 
 ## Tecnologias utilizadas
 ### Back end
