@@ -19,8 +19,8 @@ A aplicação consiste em um cardápio digital para um restaurante fictício, co
 O admin é responsável pelo restaurante, tendo o perfil de criar, visualizar, editar e apagar um prato a qualquer momento do cardápio. 
 
 #### Dados de acesso para teste
-login: admin@mail.com  
-senha: 123456
+`login: admin@mail.com`  
+`senha: 123456`
 
 ### Usuário
 O usuário, após se cadastrar e fazer logIn, consegue visualizar todos os pratos cadastrados, pesquisar por nome ou ingrediente, e ao clicar em um prato, recebe informações mais detalhadas sobre ele.
@@ -84,7 +84,5 @@ npm start
 
 ## Autor
 
-Sofia Neo
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-neo-853075243/)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-SOFIA_NEO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-neo-853075243/)](https://www.linkedin.com/in/sofia-neo-853075243/)
 
