@@ -25,11 +25,19 @@ senha: 123456
 ### Usuário
 O usuário, após se cadastrar e fazer logIn, consegue visualizar todos os pratos cadastrados, pesquisar por nome ou ingrediente, e ao clicar em um prato, recebe informações mais detalhadas sobre ele.
 
+## Ajustes e melhorias
+
+A aplicação ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [ ] Favoritar prato
+- [ ] Histórico de pedidos
+- [ ] Página de pagamento
+
 ## Layout
-Aplicação foi desenvolvida utilizando o seguinte [layout](https://www.figma.com/community/file/1196874589259687769).
+Aplicação foi desenvolvida utilizando o [layout](https://www.figma.com/community/file/1196874589259687769) fornecido.
 
 ### Modelo conceitual
-https://drawsql.app/teams/sofia-neos-team/diagrams/food-explorer/embed
+[![image](https://prnt.sc/BYdFUyVmFI5w)](https://drawsql.app/teams/sofia-neos-team/diagrams/food-explorer/embed)
 
 ## Tecnologias utilizadas
 ### Back end
