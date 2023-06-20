@@ -84,6 +84,8 @@ npm start
 ```
 
 ## Autor
+### Sofia Neo
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-SOFIA_NEO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-neo-853075243/)](https://www.linkedin.com/in/sofia-neo-853075243/)
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sofineo)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-neo-853075243/)
 
