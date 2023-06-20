@@ -1,4 +1,4 @@
-# foodExplorer
+# foodExplorer ![image](https://img.shields.io/badge/Back_end-100000?style=for-the-badge&logo=backend&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
