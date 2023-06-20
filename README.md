@@ -8,6 +8,7 @@
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Sobre o projeto
+[![image](https://img.shields.io/badge/Github-frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sofineo/Food-Explorer-Front-end-)
 
 https://foodexplorerapp.netlify.app  
 
