@@ -66,7 +66,7 @@ class DishesRepository {
       'dishes.category',
       'dishes.price',
       'dishes.description'
-    ])
+    ]) 
     .whereLike('dishes.name', `%${search}%`)
     .orWhereLike('ingredients.name', `%${search}%`)
     .innerJoin('dishes', 'dishes.id', 'ingredients.dish_id')
