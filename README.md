@@ -30,7 +30,7 @@ O usuário, após se cadastrar e fazer logIn, consegue visualizar todos os prato
 
 A aplicação ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Favoritar prato
+- [x] Favoritar prato
 - [ ] Histórico de pedidos
 - [ ] Página de pagamento
 

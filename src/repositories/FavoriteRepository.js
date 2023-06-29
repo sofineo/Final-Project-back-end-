@@ -16,6 +16,7 @@ class FavoriteRepository {
     ]) 
     .where('favorites.user_id', `${user_id}`)
     .innerJoin('dishes', 'dishes.id', 'favorites.dish_id')
+    .groupBy('dishes.id')
     .orderBy('dishes.name')
 
     return favorites
