@@ -11,7 +11,7 @@ class SessionController {
     const sessionService = new SessionService(sessionRepository)
     const { user, token } = await sessionService.execute({ email, password})
 
-    return response.json({ user, token })
+    return response.status(202).json({ user, token })
   }
 }
 
