@@ -66,7 +66,7 @@ git clone
 npm install
 
 # executar o projeto
-npm start
+npm run dev
 ```
 
 ### Front end web
@@ -80,7 +80,7 @@ git clone https://github.com/sofineo/Food-Explorer-Front-end-.git
 npm install
 
 # executar o projeto
-npm start
+npm run dev
 ```
 
 ## Autor
